@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<html lang ="en"
+<head>
+
+  <font size="+3" color="orange"  <tittle>PERSONAL TRAINER</font></tittle>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href=".images/favicon.ico">
+      
+    <body>
+        <section class="home" id="home">
+            <div class="max-width">
+                <div class="home-content">
+
+            </div>
+        </section>
+        <div class="column right">
+            <div>
+           <font color="white" size="+2" <p>If you want something you've never had, you must be willing to do something you've never done,it starts with you! </font></p>
+
+        </div>
+        
+
+        <header>
+            <nav>
+                <a href="index.html" class="nav-logo">
+                <img src="girlcode-music/images/gym.png" alt="logo"/>
+                </a>
+                <ul class="nav-menu">
+                    <li class="menu-item">
+                        <a href="#">HOME</a>
+                    
+                </li>
+                <li class="menu-item">
+                    <a href="#">ABOUT</a>
+                </li>
+                    <li class="menu-item">
+                        <a href="#">SERVICE</a>
+                    </li>          
+                     <li class="menu-item">
+                            <a href="#">TESTIMONY</a>
+                        </li>
+                            <li class="menu-item">
+                                <a href="#">CONTACT</a>
+                            </li>
+                    
+                            
+                            </ul>
+            </nav>
+        </header>
+        <footer>
+            <div class="wrapper">
+                <ul>
+                    <li class="booking-menu">
+                        <a href="#">Book now</a>
+                    </li>
+                    <li class="booking-menu">
+                        <a href="#"> View Workouts</a>
+                    </li>
+                    
+                
+
+                </ul>
+            </div>
+        </footer>
+    </body>
+
+</head>
+</html>
