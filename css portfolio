@@ -1,0 +1,42 @@
+body{
+
+    background: url('girlcode-music/images/hl.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-menu{
+display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    color: aliceblue;
+    
+}
+header{
+    padding: 9px 76px;
+    border-bottom: 1px dashed;
+}
+
+.menu-item{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    color: rgb(255, 246, 240);
+    
+}
+.booking-menu{
+    display: inline-block;
+    color: antiquewhite;
+    background: white;
+    padding: 10px 15px;
+    border-radius: 3px;
+    
+}
